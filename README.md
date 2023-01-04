@@ -1,5 +1,5 @@
 # textbasedgame
 
-A Python Text-Based Adventure Game that requires players to type in a command line prompt to move through the different rooms and get items from each room. 
+A text-based adventure game written in Python, in which players navigate through a series of rooms and collect items by issuing commands through a command-line interface. The objective of the game is for the player to acquire all necessary items before confronting the enemy in a final room.
 
-The goal of the game is for the player to get all of the items before encountering the room that contains the villain.
+To run this Python script, make sure you have Python installed on your computer. If you do not have Python installed, you can download it from the official Python website (https://www.python.org/downloads/).
